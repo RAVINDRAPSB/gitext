@@ -1,0 +1,2 @@
+# gitext
+Inventory
